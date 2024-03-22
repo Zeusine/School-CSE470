@@ -1,5 +1,5 @@
 <?php 
 
-require("../private/core/autoload.php"); //update
+require("../private/core/autoload.php");
 
 $app = new App();
